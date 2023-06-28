@@ -1,0 +1,9 @@
+Write me python code for the risk analysis of "StockTicker" by Monte Carlo simulation
+
+
+Give detailed comments and list all dependencies.
+
+
+'''
+If the Matplotlib plots are not interactive enough. Ask GPT to use Plotly instead.
+'''
